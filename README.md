@@ -10,7 +10,7 @@
 Conducted an exploratory analysis of air quality and weather data in Beijing to understand key environmental factors and prepare for future predictive modeling.
 
 **Time Period:**  
-March 2021 - June 2021
+Sept 2023 - Oct 2023
 
 **Tools:**  
 Python, Pandas, Matplotlib, Seaborn
