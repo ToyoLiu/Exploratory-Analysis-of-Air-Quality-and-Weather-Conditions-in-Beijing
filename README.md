@@ -20,3 +20,7 @@ Python, Pandas, Matplotlib, Seaborn
 - Developed visualizations such as heatmaps and distribution plots to examine correlations among air quality indicators and identify potential outliers.
 - Implemented data preprocessing techniques, including handling missing data and outlier detection, to ensure data quality for subsequent modeling.
 - Generated insights into the relationship between air quality and meteorological factors, laying the groundwork for developing predictive models using time series analysis and machine learning algorithms.
+
+**数据处理**
+
+在这个项目中，我使用了Python中的Pandas库对包含2376条记录的数据集进行了处理。数据集中有多个与空气质量相关的指标（如PM2.5、PM10、AQI）以及天气条件。我对缺失值进行了填充或删除处理，并通过异常值检测识别出潜在异常数据。在数据清洗之后，我使用Matplotlib和Seaborn进行了可视化，生成了热图和分布图来展示变量之间的相关性。
